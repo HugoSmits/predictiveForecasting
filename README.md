@@ -13,4 +13,7 @@ Predictive Forecasting in the Dutch Stock Market with Sentiment Analysis
 - Handle missing values, outliers, and format the stock price data.
 - Extract relevant features for trend analysis, such as moving averages and technical indicators.
 - Preprocess text data for sentiment analysis.
-hey
+
+## Feature Engineering
+- Create relevant features for predicting stock movements. This can include technical indicators, moving averages, and other financial metrics.
+- Extract features from the sentiment analysis, such as sentiment scores, number of positive/negative words, etc.
