@@ -17,3 +17,7 @@ Predictive Forecasting in the Dutch Stock Market with Sentiment Analysis
 ## Feature Engineering
 - Create relevant features for predicting stock movements. This can include technical indicators, moving averages, and other financial metrics.
 - Extract features from the sentiment analysis, such as sentiment scores, number of positive/negative words, etc.
+
+## Model Selection
+- Selecting Machine learning models for stock price prediction. Time-series models like ARIMA or machine learning models like Random Forests or LSTM can be good starting points.
+- Incorporating sentiment features into your model. Models like Natural Language Processing (NLP) models or pre-trained models like BERT for sentiment analysis.
