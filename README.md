@@ -21,3 +21,7 @@ Predictive Forecasting in the Dutch Stock Market with Sentiment Analysis
 ## Model Selection
 - Selecting Machine learning models for stock price prediction. Time-series models like ARIMA or machine learning models like Random Forests or LSTM can be good starting points.
 - Incorporating sentiment features into your model. Models like Natural Language Processing (NLP) models or pre-trained models like BERT for sentiment analysis.
+
+## Model Training
+- Split the data into training and testing sets.
+- Train the chosen models on the training data.
