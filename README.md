@@ -25,3 +25,6 @@ Predictive Forecasting in the Dutch Stock Market with Sentiment Analysis
 ## Model Training
 - Split the data into training and testing sets.
 - Train the chosen models on the training data.
+
+## Evaluation
+- Evaluate the performance of your model using metrics like AIC (Akaike Information Criterion) or BIC (Bayesian Information Criterion):
