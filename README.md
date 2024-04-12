@@ -27,4 +27,12 @@ Predictive Forecasting in the Dutch Stock Market with Sentiment Analysis
 - Train the chosen models on the training data.
 
 ## Evaluation
-- Evaluate the performance of your model using metrics like AIC (Akaike Information Criterion) or BIC (Bayesian Information Criterion):
+- Evaluate the performance of your model using metrics like AIC (Akaike Information Criterion) or BIC (Bayesian Information Criterion)
+
+## Fine-tuning
+- Fine-tune the model based on the evaluation results. This may involve adjusting hyperparameters, feature selection, or trying different models.
+
+## Deployment
+- Deploy the model for real-time predictions. This could be a web application, API, or any other suitable deployment method.
+
+
