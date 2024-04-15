@@ -39,4 +39,9 @@ Predictive Forecasting in the Dutch Stock Market with Sentiment Analysis
 - Regularly update the model with new data to improve its accuracy.
 - Consider incorporating more advanced techniques or expanding your analysis as you gain insights.
 
+## Running the Dashboard:
+
+- Outline the steps for starting the dashboard application.
+- Include any command-line instructions or scripts needed to launch the dashboard.
+
 
