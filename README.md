@@ -44,4 +44,9 @@ Predictive Forecasting in the Dutch Stock Market with Sentiment Analysis
 - Outline the steps for starting the dashboard application.
 - Include any command-line instructions or scripts needed to launch the dashboard.
 
+## Accessing the Dashboard:
+
+- Specify the URL or local address where the dashboard can be accessed.
+- If authentication is required, provide instructions for logging in.
+
 
