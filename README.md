@@ -54,6 +54,6 @@ Predictive Forecasting in the Dutch Stock Market with Sentiment Analysis.
 ## Usage:
 
 Provide an overview of the dashboard's features and functionality.
-Include guidance on how users can interact with the dashboard, such as filtering data or selecting visualizations.
+Include guidance on how users can interact with the dashboard, such as filtering data or selecting visualizations and more.
 
 
