@@ -1,8 +1,10 @@
 # predictiveForecasting
-Predictive Forecasting in the Dutch Stock Market with Sentiment Analysis
+Fundamental(Sentiment Analysis) and Technical analysis(Predictive).
+Predictive Forecasting in the Dutch Stock Market with Sentiment Analysis.
 
 ## Define Objectives and Scope
 - Objective: Predict the closing prices of selected stocks in the Dutch stock market.
+- Objective: Add Sentiment Analysis to the predictions.
 - Scope: weekly predictions. (Requires less data and focuses on long term movements)
 
 ## Gather Data
@@ -48,5 +50,10 @@ Predictive Forecasting in the Dutch Stock Market with Sentiment Analysis
 
 - Specify the URL or local address where the dashboard can be accessed.
 - If authentication is required, provide instructions for logging in.
+
+## Usage:
+
+Provide an overview of the dashboard's features and functionality.
+Include guidance on how users can interact with the dashboard, such as filtering data or selecting visualizations.
 
 
