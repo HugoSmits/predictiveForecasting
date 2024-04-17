@@ -15,3 +15,16 @@ Clone the forked repository to your local machine using the following command:
 ```bash
 git clone https://github.com/your-username/project-name.git
 ```
+
+### 3. Create a New Branch
+
+Create a new branch for your contribution. Choose a descriptive name for your branch that reflects the changes you're making.
+
+```bash
+git checkout -b feature/new-feature
+```
+
+### 4. Make Changes
+
+Make your desired changes to the project on your local machine. This could include adding new features, fixing bugs, improving documentation, or anything else you think would benefit the project.
+
