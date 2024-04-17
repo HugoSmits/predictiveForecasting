@@ -13,7 +13,7 @@ Fork the repository to your GitHub account. This creates a copy of the project u
 Clone the forked repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/your-username/predictiveForecasting.git
 ```
 
 ### 3. Create a New Branch
@@ -45,3 +45,18 @@ Push your changes to your forked repository on GitHub.
 git push origin feature/new-feature
 ```
 
+### 7. Submit a Pull Request
+
+Go to the GitHub page of your forked repository and submit a pull request to the main project repository. Provide a clear description of your changes and why they're beneficial.
+
+### 8. Review and Iterate
+
+Your pull request will be reviewed by project maintainers. They may provide feedback or ask for additional changes. Iterate on your changes based on their feedback until your pull request is accepted.
+
+## Code of Conduct
+
+Please note that [predictiveForecasting] follows a Code of Conduct. By contributing, you agree to abide by its terms.
+
+## Need Help?
+
+If you have any questions or need assistance, don't hesitate to reach out to project maintainers or the community. We're here to help!
