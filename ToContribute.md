@@ -28,3 +28,20 @@ git checkout -b feature/new-feature
 
 Make your desired changes to the project on your local machine. This could include adding new features, fixing bugs, improving documentation, or anything else you think would benefit the project.
 
+### 5. Commit Your Changes
+
+Once you've made your changes, commit them to your local repository with a descriptive commit message.
+
+```bash
+git add .
+git commit -m "Add new feature: [Brief description of the feature]"
+```
+
+### 6. Push Changes
+
+Push your changes to your forked repository on GitHub.
+
+```bash
+git push origin feature/new-feature
+```
+
