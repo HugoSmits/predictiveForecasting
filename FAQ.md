@@ -23,3 +23,11 @@
 
 **8. Is there a community or forum where I can ask questions or discuss the project?**
    - Yes, we encourage users to join our community and participate in discussions. You can join our [community/forum/chat room] to ask questions, share ideas, and connect with other users and contributors.
+   
+**9. What license is this project distributed under?**
+   - This project is distributed under the [license name]. You can find more information about the license in the LICENSE file in the repository.
+
+**10. How can I contact the project maintainers?**
+   - You can reach out to the project maintainers by [method of contact, e.g., email, GitHub issues]. Feel free to contact us with any questions, feedback, or inquiries.
+
+If you have any other questions or concerns not addressed in this FAQ, please don't hesitate to reach out to us. We're here to help!
