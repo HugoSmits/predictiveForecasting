@@ -18,3 +18,8 @@
 **6. Can I suggest new features or improvements?**
    - Absolutely! We appreciate feedback and suggestions for improving the project. You can submit feature requests or ideas by opening an issue in the GitHub repository. Be sure to describe the feature or improvement you'd like to see and explain why it would be beneficial.
 
+**7. How often is the project updated?**
+   - The project is actively maintained, and updates are released periodically. You can check the changelog or release notes for information about the latest updates and improvements.
+
+**8. Is there a community or forum where I can ask questions or discuss the project?**
+   - Yes, we encourage users to join our community and participate in discussions. You can join our [community/forum/chat room] to ask questions, share ideas, and connect with other users and contributors.
