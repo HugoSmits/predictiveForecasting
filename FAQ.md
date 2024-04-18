@@ -11,3 +11,10 @@
 
 **4. How can I contribute to the project?**
    - We welcome contributions from the community! Check out the Contributing Guidelines in the repository to learn how you can contribute. You can contribute by submitting bug reports, feature requests, or by making code contributions through pull requests.
+
+**5. I found a bug. What should I do?**
+   - If you encounter a bug or unexpected behavior, please report it by opening an issue in the GitHub repository. Provide detailed steps to reproduce the issue, along with any relevant error messages or screenshots.
+   
+**6. Can I suggest new features or improvements?**
+   - Absolutely! We appreciate feedback and suggestions for improving the project. You can submit feature requests or ideas by opening an issue in the GitHub repository. Be sure to describe the feature or improvement you'd like to see and explain why it would be beneficial.
+
