@@ -22,3 +22,10 @@ Data preprocessing is the cornerstone of any data analytics project, laying the 
 - **Handling Time Series Data:** Resampling, aggregating, or interpolating time series data to achieve the desired frequency and format.
 
 Effective data preprocessing is essential for maximizing the performance of predictive models and extracting meaningful insights from the dataset. In the subsequent sections, we delve into the specific techniques and methodologies employed in the data preprocessing phase of the [project name] project.
+
+### 2. Exploratory Data Analysis (EDA)
+
+Exploratory Data Analysis (EDA) is a crucial step in understanding the underlying patterns, relationships, and distributions within a dataset. In the context of the [project name] project, EDA serves as a preliminary investigation to uncover insights and inform subsequent analysis and modeling. Key aspects of EDA include:
+
+- **Descriptive Statistics:** Computing summary statistics such as mean, median, standard deviation, and quartiles to describe the central tendency, dispersion, and shape of the data distribution.
+- **Data Visualization:** Creating visualizations such as histograms, box plots, scatter plots, and heatmaps to visualize the distribution of individual variables, explore relationships between variables, and identify potential patterns or outliers.
