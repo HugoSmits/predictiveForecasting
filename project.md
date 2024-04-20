@@ -29,3 +29,7 @@ Exploratory Data Analysis (EDA) is a crucial step in understanding the underlyin
 
 - **Descriptive Statistics:** Computing summary statistics such as mean, median, standard deviation, and quartiles to describe the central tendency, dispersion, and shape of the data distribution.
 - **Data Visualization:** Creating visualizations such as histograms, box plots, scatter plots, and heatmaps to visualize the distribution of individual variables, explore relationships between variables, and identify potential patterns or outliers.
+- **Correlation Analysis:** Examining the correlation between different variables to understand the strength and direction of their relationships. Correlation matrices and correlation plots are commonly used to visualize these relationships.
+- **Feature Importance:** Assessing the importance of different features in predicting the target variable using techniques such as correlation analysis, feature importance plots, and statistical tests.
+
+Through EDA, we gain valuable insights into the structure and characteristics of the dataset, which guide subsequent modeling decisions and help formulate hypotheses for further investigation. In the following sections, we delve into the EDA process and its application within the context of the [predictiveForecasting] project.
