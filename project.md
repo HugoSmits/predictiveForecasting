@@ -61,3 +61,5 @@ Effective data preprocessing lays the foundation for building accurate and robus
 9. Raschka, Sebastian, & Mirjalili, Vahid. (2019). Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2. Packt Publishing.
 10. Chollet, François. (2017). Deep Learning with Python. Manning Publications.
 11. Goodfellow, Ian, Bengio, Yoshua, & Courville, Aaron. (2016). Deep Learning. MIT Press.
+12. Kuhn, Max, & Johnson, Kjell. (2013). Applied Predictive Modeling. Springer.
+13. Witten, Ian H., Frank, Eibe, Hall, Mark A., & Pal, Christopher J. (2016). Data Mining: Practical Machine Learning Tools and Techniques. Morgan Kaufmann.
