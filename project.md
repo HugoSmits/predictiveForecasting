@@ -55,4 +55,6 @@ Effective data preprocessing lays the foundation for building accurate and robus
 4. Pedregosa, F. et al. (2011). *Scikit-learn: Machine Learning in Python.* Journal of Machine Learning Research, 12, 2825-2830.
 5. Hastie, T., Tibshirani, R., & Friedman, J. (2009). *The Elements of Statistical Learning: Data Mining, Inference, and Prediction.* Springer.
 
-These resources cover a wide range of topics related to data preprocessing, machine learning algorithms, and practical implementations using Python libraries such as Pandas, NumPy, Scikit-learn, and TensorFlow.
+6. Brownlee, Jason. (2016). Deep Learning for Time Series Forecasting. Machine Learning Mastery.
+7. Hyndman, R.J., & Athanasopoulos, G. (2018). Forecasting: Principles and Practice. OTexts.
+8. Bengfort, Benjamin, Bilbro, Rebecca, & Ojeda, Tony. (2018). Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning. O'Reilly Media.
