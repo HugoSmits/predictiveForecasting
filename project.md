@@ -58,3 +58,4 @@ Effective data preprocessing lays the foundation for building accurate and robus
 6. Brownlee, Jason. (2016). Deep Learning for Time Series Forecasting. Machine Learning Mastery.
 7. Hyndman, R.J., & Athanasopoulos, G. (2018). Forecasting: Principles and Practice. OTexts.
 8. Bengfort, Benjamin, Bilbro, Rebecca, & Ojeda, Tony. (2018). Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning. O'Reilly Media.
+9. Raschka, Sebastian, & Mirjalili, Vahid. (2019). Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2. Packt Publishing.
