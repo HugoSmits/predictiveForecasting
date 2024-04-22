@@ -63,3 +63,5 @@ Effective data preprocessing lays the foundation for building accurate and robus
 11. Goodfellow, Ian, Bengio, Yoshua, & Courville, Aaron. (2016). Deep Learning. MIT Press.
 12. Kuhn, Max, & Johnson, Kjell. (2013). Applied Predictive Modeling. Springer.
 13. Witten, Ian H., Frank, Eibe, Hall, Mark A., & Pal, Christopher J. (2016). Data Mining: Practical Machine Learning Tools and Techniques. Morgan Kaufmann.
+14. Pedregosa, F. et al. (2011). Scikit-learn: Machine Learning in Python. Journal of Machine Learning Research, 12, 2825-2830.
+15. McKinney, Wes. (2018). Python for Data Science Handbook: Essential Tools for Working with Data. O'Reilly Media.
