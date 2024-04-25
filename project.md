@@ -53,13 +53,7 @@ Once the data has been processed and prepared, the next step is to select approp
 
 - **Model Selection**: Choosing the right forecasting model(s) based on the nature of the data, such as time series characteristics, seasonality, trends, and external factors. Common models include ARIMA, SARIMA, Exponential Smoothing, LSTM networks, and more.
   
-- **Evaluation Metrics**: Determining suitable metrics to evaluate the accuracy and effectiveness of the selected models. Common evaluation metrics for time series forecasting include Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), Mean Absolute Percentage Error (MAPE), and others.
-  
-- **Cross-Validation**: Employing cross-validation techniques to assess the robustness and generalization ability of the models. Time series data often requires specialized cross-validation methods such as time series cross-validation (e.g., rolling origin, expanding window) to avoid data leakage and properly simulate real-world forecasting scenarios.
-  
-- **Hyperparameter Tuning**: Fine-tuning model hyperparameters to optimize performance. This may involve grid search, random search, or more advanced optimization techniques to find the best combination of hyperparameters for each model.
 
-- **Model Comparison**: Comparing the performance of different models using the chosen evaluation metrics and selecting the best-performing model(s) for deployment.
 
 ### 5. References
 
