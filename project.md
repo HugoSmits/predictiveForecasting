@@ -59,7 +59,7 @@ Once the data has been processed and prepared, the next step is to select approp
   
 - **Hyperparameter Tuning**: Fine-tuning model hyperparameters to optimize performance. This may involve grid search, random search, or more advanced optimization techniques to find the best combination of hyperparameters for each model.
 
-
+- **Model Comparison**: Comparing the performance of different models using the chosen evaluation metrics and selecting the best-performing model(s) for deployment.
 
 
 ### 5. References
