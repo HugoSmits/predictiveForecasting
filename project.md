@@ -69,6 +69,8 @@ Once the forecasting models have been trained and evaluated, the next step is to
 
 - Prediction Intervals: Plotting prediction intervals around the forecasted values to convey uncertainty and variability in the predictions. Prediction intervals provide a range of possible outcomes and help stakeholders assess the confidence level of the forecasts.
 
+- Error Analysis: Analyzing forecast errors and residuals to identify any systematic biases, outliers, or anomalies in the predictions. Understanding the sources of errors helps improve the forecasting models and refine future predictions.
+
 ### 6. References
 
 1. McKinney, Wes. (2017). *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython.* O'Reilly Media.
