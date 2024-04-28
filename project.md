@@ -65,7 +65,9 @@ Once the data has been processed and prepared, the next step is to select approp
 
 Once the forecasting models have been trained and evaluated, the next step is to visualize the forecasted results and interpret them effectively. This involves:
 
-Forecast Visualization: Generating visualizations such as time series plots, line charts, and heatmaps to display the historical data, actual values, and forecasted values. Visualizations help stakeholders understand the trends, patterns, and deviations in the data over time.
+- Forecast Visualization: Generating visualizations such as time series plots, line charts, and heatmaps to display the historical data, actual values, and forecasted values. Visualizations help stakeholders understand the trends, patterns, and deviations in the data over time.
+
+- Prediction Intervals: Plotting prediction intervals around the forecasted values to convey uncertainty and variability in the predictions. Prediction intervals provide a range of possible outcomes and help stakeholders assess the confidence level of the forecasts.
 
 ### 6. References
 
