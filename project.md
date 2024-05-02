@@ -82,6 +82,8 @@ After developing and evaluating forecasting models, the next crucial step is dep
 - Integration with Data Pipelines: Integrating the forecasting models with data pipelines and ETL (Extract, Transform, Load) processes to automate the flow of data from source systems to the forecasting models. This involves configuring data ingestion, preprocessing, and transformation steps to prepare input data for the models.
 - API Development: Exposing the forecasting models as RESTful APIs (Application Programming Interfaces) or microservices to enable seamless integration with other applications, services, or third-party platforms. Developing APIs that accept input data, perform predictions, and return forecasted results in a standardized format.
 - Monitoring and Maintenance: Implementing monitoring and maintenance procedures to track the performance and health of deployed forecasting models continuously. Monitoring metrics such as prediction accuracy, latency, throughput, and resource utilization to detect anomalies, drifts, or degradation in model performance.
+- Feedback Loop: Establishing a feedback loop mechanism to collect feedback from end-users, stakeholders, or downstream systems and incorporate it into the forecasting models iteratively. Updating the models periodically based on new data, changing business requirements, or feedback to ensure their relevance and accuracy over time.
+- Version Control and Governance: Managing versions of deployed forecasting models using version control systems and implementing governance policies to ensure compliance with regulatory requirements, data privacy regulations, and industry standards. Maintaining documentation, audit trails, and change management processes for model governance.
 
 ### 6. References
 
