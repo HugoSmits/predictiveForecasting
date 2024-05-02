@@ -79,6 +79,7 @@ Once the forecasting models have been trained and evaluated, the next step is to
 After developing and evaluating forecasting models, the next crucial step is deploying them into production environments and integrating them with existing systems. This involves:
 
 - Model Deployment: Implementing the forecasting models in production environments, which may include deploying them to cloud platforms, on-premises servers, or edge devices. Ensuring that the deployed models are scalable, reliable, and performant to handle real-time or batch forecasting tasks.
+- Integration with Data Pipelines: Integrating the forecasting models with data pipelines and ETL (Extract, Transform, Load) processes to automate the flow of data from source systems to the forecasting models. This involves configuring data ingestion, preprocessing, and transformation steps to prepare input data for the models.
 
 ### 6. References
 
