@@ -80,7 +80,8 @@ After developing and evaluating forecasting models, the next crucial step is dep
 
 - Model Deployment: Implementing the forecasting models in production environments, which may include deploying them to cloud platforms, on-premises servers, or edge devices. Ensuring that the deployed models are scalable, reliable, and performant to handle real-time or batch forecasting tasks.
 - Integration with Data Pipelines: Integrating the forecasting models with data pipelines and ETL (Extract, Transform, Load) processes to automate the flow of data from source systems to the forecasting models. This involves configuring data ingestion, preprocessing, and transformation steps to prepare input data for the models.
--API Development: Exposing the forecasting models as RESTful APIs (Application Programming Interfaces) or microservices to enable seamless integration with other applications, services, or third-party platforms. Developing APIs that accept input data, perform predictions, and return forecasted results in a standardized format.
+- API Development: Exposing the forecasting models as RESTful APIs (Application Programming Interfaces) or microservices to enable seamless integration with other applications, services, or third-party platforms. Developing APIs that accept input data, perform predictions, and return forecasted results in a standardized format.
+- Monitoring and Maintenance: Implementing monitoring and maintenance procedures to track the performance and health of deployed forecasting models continuously. Monitoring metrics such as prediction accuracy, latency, throughput, and resource utilization to detect anomalies, drifts, or degradation in model performance.
 
 ### 6. References
 
