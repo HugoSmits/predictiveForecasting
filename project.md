@@ -85,6 +85,9 @@ After developing and evaluating forecasting models, the next crucial step is dep
 - Feedback Loop: Establishing a feedback loop mechanism to collect feedback from end-users, stakeholders, or downstream systems and incorporate it into the forecasting models iteratively. Updating the models periodically based on new data, changing business requirements, or feedback to ensure their relevance and accuracy over time.
 - Version Control and Governance: Managing versions of deployed forecasting models using version control systems and implementing governance policies to ensure compliance with regulatory requirements, data privacy regulations, and industry standards. Maintaining documentation, audit trails, and change management processes for model governance.
 
+### 6. Interpretability and Explainability of Forecasting Models
+Interpreting and understanding the predictions made by forecasting models is essential for building trust, gaining insights, and making informed decisions. This topic covers techniques and considerations for enhancing the interpretability and explainability of forecasting models:
+
 ### 6. References
 
 1. McKinney, Wes. (2017). *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython.* O'Reilly Media.
