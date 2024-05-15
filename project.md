@@ -88,6 +88,8 @@ After developing and evaluating forecasting models, the next crucial step is dep
 ### 6. Interpretability and Explainability of Forecasting Models
 Interpreting and understanding the predictions made by forecasting models is essential for building trust, gaining insights, and making informed decisions. This topic covers techniques and considerations for enhancing the interpretability and explainability of forecasting models:
 
+- Feature Importance Analysis: Identifying and analyzing the most influential features or variables that contribute to the model's predictions. Techniques such as permutation feature importance, SHAP (SHapley Additive exPlanations), and LIME (Local Interpretable Model-agnostic Explanations) can be used to quantify the impact of features on forecasted outcomes.
+
 ### 6. References
 
 1. McKinney, Wes. (2017). *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython.* O'Reilly Media.
