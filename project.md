@@ -94,6 +94,8 @@ Interpreting and understanding the predictions made by forecasting models is ess
 
 - Visualization of Model Outputs: Creating visualizations and interactive dashboards to present forecasted outcomes, uncertainty estimates, and key drivers in an intuitive and comprehensible manner. Using plots, charts, heatmaps, and summary statistics to convey complex relationships and patterns captured by the models.
 
+- Scenario Analysis and What-If Scenarios: Conducting scenario analysis and exploring what-if scenarios to understand the implications of different inputs, assumptions, or external factors on forecasted outcomes. Allowing stakeholders to simulate various scenarios and assess the potential impact on business performance or operational metrics.
+
 ### 6. References
 
 1. McKinney, Wes. (2017). *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython.* O'Reilly Media.
